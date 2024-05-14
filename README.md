@@ -3,8 +3,7 @@
 - 🏠 Tijucas, Santa Catarina, Brasil
 - 📚 Estudando na área de desenvolvimento, cibersegurança e banco de dados
 
-![Henry-octocat-1715693952707](https://github.com/HenryGabriel-2407/HenryGabriel-2407/assets/63942305/5bd5cc69-6baf-42d1-add6-35c068a09372)
-
+![Henry-octocat-1715693952707](https://github.com/HenryGabriel-2407/HenryGabriel-2407/assets/63942305/63a4953f-8c2c-4919-91d9-3c9bd89543f3)
 
 <div>
 <a href="https://github.com/HenryGabriel-2407">
