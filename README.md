@@ -1,6 +1,6 @@
 ## Dae, galera! :smile::v: Eu sou Henry Gabriel.
 
-- 🏠 Tijucas, Santa Catarina, Brasil
+- 🏠 Itapema, Santa Catarina, Brasil
 - 📚 Estudando na área de desenvolvimento, cibersegurança e banco de dados
 
 ![Henry-octocat-1715693952707](https://github.com/HenryGabriel-2407/HenryGabriel-2407/assets/63942305/63a4953f-8c2c-4919-91d9-3c9bd89543f3)
