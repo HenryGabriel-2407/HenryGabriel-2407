@@ -5,11 +5,6 @@
 
 ![Henry-octocat-1715693952707](https://github.com/HenryGabriel-2407/HenryGabriel-2407/assets/63942305/63a4953f-8c2c-4919-91d9-3c9bd89543f3)
 
-<div>
-<a href="https://github.com/HenryGabriel-2407">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryGabriel-2407&layout=compact&langs_count=7&theme=github_dark&cache=1"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryGabriel-2407&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache=1"/>
-</div>
 
 ### Estou apredendo...
 <div>
